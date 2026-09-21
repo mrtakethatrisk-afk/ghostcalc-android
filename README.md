@@ -14,7 +14,7 @@ If that download doesn't work, use the [backup download from ghostcalc.org](http
 
 ## How to install
 
-1. **On your Android phone**, open this page in Chrome and tap the download link above. If you opened it inside another app, like Instagram, TikTok or Snapchat, tap that app's menu and choose **Open in Chrome** (or **Open in browser**) first. If Chrome says this type of file can harm your device, tap **Download anyway** (or **OK**).
+1. **On your Android phone**, open this page in the Chrome app and tap the download link above. If you opened the link inside another app, like Discord, Instagram, TikTok or Snapchat, tap **⋮** (or that app's menu) and choose **Open in Chrome** (or **Open in browser**) first. Downloads started inside those apps can get stuck. When Chrome says this type of file can harm your device, tap **Download anyway** (or **OK**).
 2. When the download finishes, tap **Open**. You can also find `GhostCalc.apk` in the **Files** app under **Downloads**.
 3. If Android says it can't install apps from this source, tap **Settings**, turn on **Allow from this source**, then go back.
 4. Tap **Install**.
@@ -28,8 +28,8 @@ Download the APK again from the same link and install it over the one you have. 
 ## Troubleshooting
 
 **The download never finishes or gets stuck**
-- Open this page in Chrome itself. Browsers built into other apps (Instagram, TikTok, Snapchat) often can't save files.
-- If the progress stops moving, open Chrome's menu (**⋮**) → **Downloads** and tap **Resume** (or **Retry**). The download picks up where it stopped. If neither button shows, delete the download and tap the download link again.
+- **Stuck on "Downloading…" with both sizes the same (like 50.05 MB / 50.05 MB)?** You downloaded inside another app's browser, like Discord's. The file finished, but Chrome is waiting for you to confirm it, and that message doesn't show up there. Tap **Cancel**, open the link in the Chrome app itself (tap **⋮** → **Open in Chrome**), download again, and tap **Download anyway** when Chrome asks.
+- If the progress stops moving partway, open Chrome's menu (**⋮**) → **Downloads** and tap **Resume** (or **Retry**). The download picks up where it stopped. If neither button shows, delete the download and tap the download link again.
 - Try switching between Wi-Fi and mobile data. School and work Wi-Fi often block app downloads.
 - Make sure your phone has at least 150 MB of free space.
 - Turn off any VPN or ad-blocker app while you download.
