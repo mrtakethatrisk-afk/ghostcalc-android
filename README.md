@@ -4,11 +4,11 @@ The official Android app for GhostCalc. Use it to pair with your GhostCalc calcu
 
 GhostCalc isn't on the Google Play Store yet, so for now you install it straight from this page (this is called "sideloading").
 
-### [⬇ Download the latest GhostCalc app (APK)](https://ghostcalc.org/android/GhostCalc.apk)
+### [⬇ Download the latest GhostCalc app (APK)](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/latest/download/GhostCalc.apk)
 
 Requires Android 7.0 or newer with Bluetooth. [All versions and release notes →](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases)
 
-If that download doesn't work, use the [backup download from GitHub](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/latest/download/GhostCalc.apk).
+If that download doesn't work, use the [backup download from ghostcalc.org](https://ghostcalc.org/android/GhostCalc.apk).
 
 ---
 
@@ -33,7 +33,7 @@ Download the APK again from the same link and install it over the one you have. 
 - Try switching between Wi-Fi and mobile data. School and work Wi-Fi often block app downloads.
 - Make sure your phone has at least 150 MB of free space.
 - Turn off any VPN or ad-blocker app while you download.
-- Still stuck? Use the [backup download from GitHub](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/latest/download/GhostCalc.apk).
+- Still stuck? Use the [backup download from ghostcalc.org](https://ghostcalc.org/android/GhostCalc.apk).
 
 **"App not installed" or "package conflicts with an existing package"**
 You have a copy of GhostCalc from somewhere else, like an older test build. Uninstall that copy, then install this one.
