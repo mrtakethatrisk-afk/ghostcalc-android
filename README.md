@@ -14,7 +14,7 @@ If that download doesn't work, use the [backup download from GitHub](https://git
 
 ## How to install
 
-1. **On your Android phone**, open this page in Chrome and tap the download link above. If you opened it inside another app, like Instagram, TikTok or Snapchat, tap that app's menu and choose **Open in Chrome** (or **Open in browser**) first.
+1. **On your Android phone**, open this page in Chrome and tap the download link above. If you opened it inside another app, like Instagram, TikTok or Snapchat, tap that app's menu and choose **Open in Chrome** (or **Open in browser**) first. If Chrome says this type of file can harm your device, tap **Download anyway** (or **OK**).
 2. When the download finishes, tap **Open**. You can also find `GhostCalc.apk` in the **Files** app under **Downloads**.
 3. If Android says it can't install apps from this source, tap **Settings**, turn on **Allow from this source**, then go back.
 4. Tap **Install**.
@@ -38,6 +38,9 @@ Download the APK again from the same link and install it over the one you have. 
 **"App not installed" or "package conflicts with an existing package"**
 You have a copy of GhostCalc from somewhere else, like an older test build. Uninstall that copy, then install this one.
 Uninstalling deletes the app's data on your phone, including your PIN and saved settings. Make a backup in the app's **Settings** first if you can.
+
+**Samsung phone says it can't install the app**
+Newer Galaxy phones have **Auto Blocker** turned on, which blocks apps from outside the Play Store and Galaxy Store. Go to **Settings → Security and privacy → Auto Blocker**, turn it off, install GhostCalc, then turn Auto Blocker back on.
 
 **The app can't find my calculator**
 - Make sure Bluetooth is on.
