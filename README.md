@@ -4,15 +4,17 @@ The official Android app for GhostCalc. Use it to pair with your GhostCalc calcu
 
 GhostCalc isn't on the Google Play Store yet, so for now you install it straight from this page (this is called "sideloading").
 
-### [⬇ Download the latest GhostCalc app (APK)](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/latest/download/GhostCalc.apk)
+### [⬇ Download the latest GhostCalc app (APK)](https://ghostcalc.org/android/GhostCalc.apk)
 
 Requires Android 7.0 or newer with Bluetooth. [All versions and release notes →](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases)
+
+If that download doesn't work, use the [backup download from GitHub](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/latest/download/GhostCalc.apk).
 
 ---
 
 ## How to install
 
-1. **On your Android phone**, open this page in Chrome and tap the download link above.
+1. **On your Android phone**, open this page in Chrome and tap the download link above. If you opened it inside another app, like Instagram, TikTok or Snapchat, tap that app's menu and choose **Open in Chrome** (or **Open in browser**) first.
 2. When the download finishes, tap **Open**. You can also find `GhostCalc.apk` in the **Files** app under **Downloads**.
 3. If Android says it can't install apps from this source, tap **Settings**, turn on **Allow from this source**, then go back.
 4. Tap **Install**.
@@ -24,6 +26,14 @@ Requires Android 7.0 or newer with Bluetooth. [All versions and release notes �
 Download the APK again from the same link and install it over the one you have. Your app settings are kept. The **Update** tab inside the app is only for your calculator's firmware, not for the app itself.
 
 ## Troubleshooting
+
+**The download never finishes or gets stuck**
+- Open this page in Chrome itself. Browsers built into other apps (Instagram, TikTok, Snapchat) often can't save files.
+- If the progress stops moving, open Chrome's menu (**⋮**) → **Downloads** and tap **Resume** (or **Retry**). The download picks up where it stopped. If neither button shows, delete the download and tap the download link again.
+- Try switching between Wi-Fi and mobile data. School and work Wi-Fi often block app downloads.
+- Make sure your phone has at least 150 MB of free space.
+- Turn off any VPN or ad-blocker app while you download.
+- Still stuck? Use the [backup download from GitHub](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/latest/download/GhostCalc.apk).
 
 **"App not installed" or "package conflicts with an existing package"**
 You have a copy of GhostCalc from somewhere else, like an older test build. Uninstall that copy, then install this one.
