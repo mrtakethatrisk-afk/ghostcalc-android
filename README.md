@@ -6,9 +6,11 @@ GhostCalc isn't on the Google Play Store yet, so for now you install it straight
 
 ### [⬇ Download the latest GhostCalc app (APK)](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/latest/download/GhostCalc.apk)
 
-Requires Android 7.0 or newer with Bluetooth. [All versions and release notes →](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases)
+**Latest version: 2.4.4 (build 28)** · [What's new](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases/tag/v2.4.4-build28) · [All versions and release notes →](https://github.com/mrtakethatrisk-afk/ghostcalc-android/releases)
 
-If that download doesn't work, use the [backup download from ghostcalc.org](https://ghostcalc.org/android/GhostCalc.apk).
+Requires Android 7.0 or newer with Bluetooth.
+
+If that download doesn't work, use the [backup download from ghostcalc.org](https://ghostcalc.org/android/GhostCalc.apk). The backup can be one version behind; you can update from this page later.
 
 ---
 
@@ -23,7 +25,7 @@ If that download doesn't work, use the [backup download from ghostcalc.org](http
 
 ## How to update
 
-Download the APK again from the same link and install it over the one you have. Your app settings are kept. The **Update** tab inside the app is only for your calculator's firmware, not for the app itself.
+Already have GhostCalc? Download the APK again from the same link above and install it right over the one you have. You don't need to uninstall first, and your app settings, PIN and login are kept. The **Update** tab inside the app is only for your calculator's firmware, not for the app itself.
 
 ## Troubleshooting
 
